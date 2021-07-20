@@ -1,3 +1,3 @@
 <?php
-    ehco "Hello World!";
+    ehco "Hello Tokyo2020!";
 ?>
